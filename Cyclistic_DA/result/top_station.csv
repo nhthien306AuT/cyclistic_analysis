@@ -1,0 +1,21 @@
+"station_type","station_id","ride_count","rank_group"
+end_station,"970",1,top 5 least popular stations
+end_station,"850",1,top 5 least popular stations
+end_station,"779",1,top 5 least popular stations
+end_station,CHI01497,1,top 5 least popular stations
+end_station,CHI01703,1,top 5 least popular stations
+end_station,"13022",52301,top 5 popular stations
+end_station,KA1503000043,36586,top 5 popular stations
+end_station,LF-005,33468,top 5 popular stations
+end_station,"13300",32530,top 5 popular stations
+end_station,"13042",30445,top 5 popular stations
+start_station,CHI01933,1,top 5 least popular stations
+start_station,CHI01671,1,top 5 least popular stations
+start_station,"716",1,top 5 least popular stations
+start_station,CHI01258,1,top 5 least popular stations
+start_station,"597",1,top 5 least popular stations
+start_station,"13022",50999,top 5 popular stations
+start_station,KA1503000043,36931,top 5 popular stations
+start_station,"13300",33477,top 5 popular stations
+start_station,"13042",30267,top 5 popular stations
+start_station,TA1307000039,29644,top 5 popular stations
