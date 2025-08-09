@@ -4,7 +4,7 @@
 ## Project Structure
   - 2 folder:
     + Cyclistic_DA:
-      + result folder: contain result of mysql (.csv)
+      + result folder: it contains result of mysql (.csv)
       + Bike-share_DA: PowerPoint file.
       + Cyclistic_visualization: Tableau file that is contain all sheet & dashboard.
     + Script folder: all sql files 
