@@ -6,5 +6,5 @@
     + Cyclistic_DA:
       + result folder: it contains result of mysql (.csv)
       + Bike-share_DA: PowerPoint file.
-      + Cyclistic_visualization: Tableau file that is contain all sheet & dashboard.
+      + Cyclistic_visualization: Tableau file that contains all sheets & dashboards.
     + Script folder: all sql files 
